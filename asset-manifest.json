@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tomperator2/static/css/main.3dc2b9f2.css",
+    "main.js": "/tomperator2/static/js/main.bcfd242a.js",
+    "static/js/453.5f07497d.chunk.js": "/tomperator2/static/js/453.5f07497d.chunk.js",
+    "index.html": "/tomperator2/index.html",
+    "main.3dc2b9f2.css.map": "/tomperator2/static/css/main.3dc2b9f2.css.map",
+    "main.bcfd242a.js.map": "/tomperator2/static/js/main.bcfd242a.js.map",
+    "453.5f07497d.chunk.js.map": "/tomperator2/static/js/453.5f07497d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dc2b9f2.css",
+    "static/js/main.bcfd242a.js"
+  ]
+}
